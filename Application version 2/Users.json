@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "637025bc2b174712f273c94a"
+  },
+  "nom_complet": "HamzaMimih12",
+  "login": "root2000",
+  "motpasse": "123456",
+  "email": "hamza123@gmail.com",
+  "role": "Admin"
+},{
+  "_id": {
+    "$oid": "6372ecb44670c9ae771ff405"
+  },
+  "nom_complet": "Adnani Adnan",
+  "login": "ad123",
+  "motpasse": "123456",
+  "email": "ad123@gmail.com",
+  "role": "User"
+}]
